@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border: 5px solid blue;
+    border-radius: 15px;
+    padding: 6px;
+}
+
+header b {
+    color: navy;
+}
+
+.more {
+    text-decoration: none;
+    color: white;
+    background-color: navy;
+    padding: 4px 8px;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    color: coral;
+    font-size: 27px;
+}
+
+footer p{
+    border: 1px solid lightgray;
+    margin: 12px;
+}
+
+.contacts {
+    padding: 0px 0px 0px 20px; 
+}
+nav{
+    margin: 15px;
+}
+
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 15px;
+    background-color: navy;
+    margin: 30px;
+    padding: 5px;
+}
+
+.production {
+    background-color: white;
+    color: navy;
+}
